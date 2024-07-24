@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @markdencker
-- 👀 I’m interested in blockchain and building smart contracts for web3
-- 🌱 I’m currently learning Solidity
+- 👋 Hi, I’m Mark from Denmark
+- 👀 I’m shippinh things to web3
+- 🌱 I’m building Solidity stuff mainly learning Rust and Go
 - 💞️ I’m looking to collaborate on any web3 project that aims to change the world
-- 📫 Reach me on Twitter or Telegram @markdencker
+- 📫 Reach me on Twitter or Telegram @markfromdenmark
