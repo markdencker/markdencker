@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mark from Denmark
-- 👀 I’m shippinh things to web3
-- 🌱 I’m building Solidity stuff mainly learning Rust and Go
+- 👋 Hi there!
+- 👀 I’m shipping things to web3
+- 🌱 I’m building Solidity stuff and learning Rust and Go
 - 💞️ I’m looking to collaborate on any web3 project that aims to change the world
-- 📫 Reach me on Twitter or Telegram @markfromdenmark
+- 📫 Reach me on Twitter or Telegram
